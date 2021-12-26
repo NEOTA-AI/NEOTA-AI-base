@@ -1,2 +1,2 @@
-# NOTA-AI-base
-the base for nota ai
+# NEOTA-AI-base
+the base for NEOTA ai
